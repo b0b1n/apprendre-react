@@ -3,9 +3,11 @@ Following the playlist : https://youtube.com/playlist?list=PLjwdMgw5TTLWom67YfZu
 <br />
 <br />
 <br />
-# Utilisation des liens CDN pour React
-<br />
+<h3> ################################### Utilisation des liens CDN pour React</h3>
+
 Instead of using the command : npx start react-app myAppName to create my React app 
 I used the links offered in the documentation <a href="https://reactjs.org/docs/cdn-links.html" > https://reactjs.org/docs/cdn-links.html </a>
-# app1.js
+<br />
+<h3> ################################### app1.js </h3>
+
 After Creating the file "index.html" , i called the JS file "app1.js" to compare between React renders the content, and how the content is normally rendered using the usual JS syntax.
