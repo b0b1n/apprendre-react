@@ -18,3 +18,7 @@ Use of the <React.Fragment> tag , iterate a given array, and displaying the cont
 
 <h3> ################################### app3.js </h3>
 Testing how React components work , using different syntaxes .... Learned about state :)
+
+
+<h3> ################################### app4.js </h3>
+Testing how React handles events 
