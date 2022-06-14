@@ -14,3 +14,7 @@ After Creating the file "index.html" , i called the JS file "app1.js" to compare
 
 <h3> ################################### app2.js </h3>
 Use of the <React.Fragment> tag , iterate a given array, and displaying the content using React
+
+
+<h3> ################################### app3.js </h3>
+Testing how React components work , using different syntaxes .... Learned about state :)
