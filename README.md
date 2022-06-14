@@ -3,7 +3,7 @@ Following the playlist : https://youtube.com/playlist?list=PLjwdMgw5TTLWom67YfZu
 <br />
 <br />
 <br />
-<h3> ################################### Utilisation des liens CDN pour React</h3>
+<h3> ################################### Using CDN links for React</h3>
 
 Instead of using the command : npx start react-app myAppName to create my React app 
 I used the links offered in the documentation <a href="https://reactjs.org/docs/cdn-links.html" > https://reactjs.org/docs/cdn-links.html </a>
