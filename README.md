@@ -40,3 +40,7 @@ Creating a products filterer using React
 
 <h3> ################################### app9.js </h3>
 Learned what's the difference between React Components and Pure React Components and when to use them. 
+
+
+<h3> ################################### app10.js </h3>
+References & DOM in React / when to use ref, and when to use forwardRef :)
