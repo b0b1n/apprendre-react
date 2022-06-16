@@ -30,3 +30,7 @@ Creating a Form with React, Styling with bootstrap
 
 <h3> ################################### app6.js </h3>
 Creating a Temperature converture Celsius/Fahrenheit using React
+
+
+<h3> ################################### app7.js </h3>
+Creating component that takes as props other components 
