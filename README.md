@@ -34,3 +34,6 @@ Creating a Temperature converture Celsius/Fahrenheit using React
 
 <h3> ################################### app7.js </h3>
 Creating component that takes as props other components 
+
+<h3> ################################### app8.js </h3>
+Creating a products filterer using React
